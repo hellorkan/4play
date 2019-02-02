@@ -1,0 +1,6 @@
+owner=385440338321473546
+prefix=4
+game=4play | Lamyem
+stayinchannel=true
+songinstatus=false
+token=NTQxMDQ2MTM2NTQ3NDQyNjg5.DzZv_g.ukJzs-APnY1vuxFpDgkrEcSCdjU
