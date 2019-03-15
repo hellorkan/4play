@@ -1,6 +1,6 @@
 owner=460606140666085378
 prefix=4
-game=Perks Music.
+game=Rabbit Music.
 stayinchannel=true
 songinstatus=false
 token=NTU0MDMwNjg4MjU3NDQxODQy.D2Ws2g.IIMXjo6O51xSvPDDKPUPE2X_-k8
